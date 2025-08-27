@@ -436,7 +436,7 @@ br.clear {
 }
 
 .row > .col-4 {
-  width: 30%;
+  width: 33.33333%;
 }
 
 .row > .off-4 {
@@ -2937,7 +2937,7 @@ button:active,
   justify-content: center;
   gap: 3em;
   flex-wrap: wrap;
-  padding-right: 6em;
+  padding-right: 2em;
   padding-left: 2em;
 }
 #about > header h2 {
