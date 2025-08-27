@@ -2937,8 +2937,8 @@ button:active,
   justify-content: center;
   gap: 3em;
   flex-wrap: wrap;
-  padding-right: 2em;
-  padding-left: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 #about > header h2 {
   margin-top: 1em;
