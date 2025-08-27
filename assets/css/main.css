@@ -3024,6 +3024,7 @@ button:active,
 .stats div p {
   color: #aaa;
   font-size: 14px;
+  padding-left: 1em;
 }
 
 .extra-info p {
